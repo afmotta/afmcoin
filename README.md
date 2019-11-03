@@ -1,0 +1,1 @@
+A simple blockchain and cryprocurrency implementation in Typescript.
