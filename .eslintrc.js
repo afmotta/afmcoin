@@ -20,7 +20,9 @@ module.exports = {
   },
   plugins: ["@typescript-eslint"],
   rules: {
-    "lines-between-class-members": 0
+    "lines-between-class-members": 0,
+    "no-console": 0,
+    "no-underscore-dangle": 0
   },
   settings: {
     "import/resolver": {
